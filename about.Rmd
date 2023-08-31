@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About Sierra"
 ---
 
-More about this website.
+"Sierra is a first year Master's student in the Integratve Biology Program in the Department of Biological Sciences at the University of New Hampshire. As part of Dr. Xuanmao Chen's lab, her work focuses on neurodegeneration and the comparative behaviors of such in post-natal brains."
